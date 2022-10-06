@@ -1,0 +1,26 @@
+.mainContent{
+    width: 70%;
+    margin: 100px auto;
+}
+.title{
+    font-size: 2.7rem;
+    font-weight: 700;
+}
+.noFavorites{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 5px dashed rgb(168, 168, 168);
+    color: rgb(168, 168, 168);
+    height: 350px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.noFavoritesLabel{
+    font-size: 4rem;
+
+}
+.frown{
+    width: 90px;
+}

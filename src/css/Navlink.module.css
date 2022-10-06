@@ -1,0 +1,20 @@
+.navlinkBtn{
+    display: flex;
+    align-items: center;
+    color: rgb(56, 56, 56);
+    cursor: pointer;
+    border: none;
+    font-size: 1.07rem;
+    font-weight: 500;
+    background-color: #FFFFFF;
+    padding: 8px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.dropdown{
+    width: 25px;
+}
+.navlinkBtnClicked{
+    color: rgb(112, 84, 236);
+    background-color: rgb(230, 225, 255);
+}
